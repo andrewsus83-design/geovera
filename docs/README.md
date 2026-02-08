@@ -1,0 +1,1 @@
+# GeoVera Documentation\n\n## Database Schema\n\nSee [schema.md](database/schema.md) for complete database documentation.
